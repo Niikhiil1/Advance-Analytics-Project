@@ -126,10 +126,8 @@ products    → product_key, product_id, product_name, category, cost
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]
+**Nikhil Dubey**  
+📧 nikhildubey17033@gmail.com
 
 ---
 
